@@ -27,3 +27,9 @@ https://github.com/OfficalOffical/AudioDescription
 
 https://github.com/Soldelli/MAD
 
+https://github.com/TheAdaptiveWeb/VideoAudioDescription
+https://github.com/harshwalia36/Audio-Description-of-Image-for-visually-impaired-person
+
+https://github.com/fazeVaib/DigiVision
+
+https://github.com/AdityaGovardhan/Video-Storytelling-as-a-Service
