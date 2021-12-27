@@ -20,6 +20,7 @@ https://www.w3.org/WAI/media/av/
 https://adp.acb.org/
 
 
+https://github.com/Vicomtech/video-content-description-VCD
 
 https://github.com/OfficalOffical/AudioDescription
 
@@ -33,3 +34,7 @@ https://github.com/harshwalia36/Audio-Description-of-Image-for-visually-impaired
 https://github.com/fazeVaib/DigiVision
 
 https://github.com/AdityaGovardhan/Video-Storytelling-as-a-Service
+
+
+
+https://github.com/facebookresearch/grounded-video-description
